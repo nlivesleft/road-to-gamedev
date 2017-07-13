@@ -1,0 +1,6 @@
+8:00PM-9:00PM
+Breakout
+Solitaire
+Pong
+Pac-Man
+https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/
